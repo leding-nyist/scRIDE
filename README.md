@@ -1,2 +1,3 @@
-# scRIDE
-Gene regulatory network inference from single-cell transcriptomes using role-informed decoupled encoding.
+scRIDE
+
+Role-Informed Decoupled Encoding for Gene Regulatory Network Inference from Single-Cell Transcriptomes.
